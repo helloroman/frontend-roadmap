@@ -1,19 +1,19 @@
 # Frontend 2019 — czego warto się nauczyć?
 ## Narzędzia ogólne
-	* [Visual Studio Code](https://code.visualstudio.com/)
-	* [Sublime Text](https://www.sublimetext.com/)
-	* Przeglądarka – devtools
-		* [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
-		* [Firefox Developer Tools](https://developer.mozilla.org/son/docs/Tools)
-		* [GitHub - facebook/react-devtools](https://github.com/facebook/react-devtools)
-		* [GitHub - vuejs/vue-devtools](https://github.com/vuejs/vue-devtools)
-		* [GitHub - zalmoxisus/redux-devtools](https://github.com/zalmoxisus/redux-devtools-extension)
-	* Projektowanie
-		* [Sketch - The digital design toolkit](https://www.sketchapp.com/)
-		* [Figma - darmowe](https://www.figma.com/) 
-		* [InVision Studio](https://www.invisionapp.com/studio)
-		* [Framer X](https://framer.com/)
-		* [Adobe XD - darmowe](https://www.adobe.com/products/xd.html)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Sublime Text](https://www.sublimetext.com/)
+* Przeglądarka – devtools
+	* [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
+	* [Firefox Developer Tools](https://developer.mozilla.org/son/docs/Tools)
+	* [GitHub - facebook/react-devtools](https://github.com/facebook/react-devtools)
+	* [GitHub - vuejs/vue-devtools](https://github.com/vuejs/vue-devtools)
+	* [GitHub - zalmoxisus/redux-devtools](https://github.com/zalmoxisus/redux-devtools-extension)
+* Projektowanie
+	* [Sketch - The digital design toolkit](https://www.sketchapp.com/)
+	* [Figma - darmowe](https://www.figma.com/) 
+	* [InVision Studio](https://www.invisionapp.com/studio)
+	* [Framer X](https://framer.com/)
+	* [Adobe XD - darmowe](https://www.adobe.com/products/xd.html)
 
 ##  Front-end – ogólne
 	* HTML Sematynczy
