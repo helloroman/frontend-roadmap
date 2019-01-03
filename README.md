@@ -36,6 +36,14 @@
 * TypeScript
 
 ### Frameworki
+* Angular
+	* [Angular Framework](https://angular.io/)
+	* [Angular Material](https://material.angular.io/)
+	* [Angular CLI](https://cli.angular.io/)
+	* State Management (wybierz jeden)
+		* [NGRX](https://ngrx.io/)
+		* [NGXS](https://ngxs.gitbook.io/ngxs/)
+		* [Akita](https://netbasal.gitbook.io/akita/)
 * [React](https://reactjs.org/)
 * [Vue.js](https://vuejs.org/)
 * SSR
@@ -52,7 +60,7 @@
 	* Serverless
 		* [Webtask – Fajne narzędzie do potestowania (darmowe)](http://webtask.io)
 * State Management
-	* [ Vuex](https://vuex.vuejs.org/)
+	* [Vuex](https://vuex.vuejs.org/)
 	* [Mobx](https://github.com/mobxjs/mobx)
 	* [Redux](https://redux.js.org/)
 * [GraphQL](https://graphql.org/learn/)
