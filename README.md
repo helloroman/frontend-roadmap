@@ -1,7 +1,8 @@
 # Frontend 2019 — czego warto się nauczyć?
 ## Narzędzia ogólne
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [Sublime Text](https://www.sublimetext.com/)
+* [Visual Studio Code - darmowe](https://code.visualstudio.com/)
+* [Sublime Text - darmowe](https://www.sublimetext.com/)
+* [Webstorm](https://www.jetbrains.com/webstorm/)
 * Przeglądarka – devtools
 	* [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
 	* [Firefox Developer Tools](https://developer.mozilla.org/son/docs/Tools)
