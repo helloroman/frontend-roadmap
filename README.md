@@ -17,7 +17,7 @@
 	* [Adobe XD - darmowe](https://www.adobe.com/products/xd.html)
 
 ##  Front-end – ogólne
-* HTML Sematynczy
+* HTML Semantyczny
 	* [Tomasz Jakut – Semantyczny blog w HTML5](https://tutorials.comandeer.pl/html5-blog.html)
 * CSS
 	* [SCSS/Sass](https://sass-lang.com/)
