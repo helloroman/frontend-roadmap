@@ -2,6 +2,7 @@
 ## Narzędzia ogólne
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Sublime Text](https://www.sublimetext.com/)
+* [Webstorm](https://www.jetbrains.com/webstorm/)
 * Przeglądarka – devtools
 	* [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
 	* [Firefox Developer Tools](https://developer.mozilla.org/son/docs/Tools)
@@ -23,20 +24,21 @@
 	* [styled-components](https://www.styled-components.com/)
 	* [Bulma](https://bulma.io/)
 * [Storybook](https://github.com/storybooks/storybook)
-* RWD 
+* RWD
 	* [CSS Grid](http://cssgridgarden.com/)
 	* [CSS Flexbox](https://flexboxfroggy.com/)
-	* *Postanowienie na nowy rok – przestańcie używać float! :D* 
 * [The math of CSS Locks](https://fvsch.com/css-locks/)
 * [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
+* [Mikrofrontendy](https://martinfowler.com/articles/micro-frontends.html)
 
 ## Front-end – część JavaScriptowa
-* ES6+ 
+* ES6+
 * TypeScript
 
 ### Frameworki
 * [React](https://reactjs.org/)
 * [Vue.js](https://vuejs.org/)
+* [Angular](https://angular.io/)
 * SSR
 	* [Next.js](https://nextjs.org/)
 	* [Nuxt.js](https://nuxtjs.org/)
@@ -45,18 +47,20 @@
 	* [Netlify](https://www.netlify.com/)
 	* [Heroku](https://www.heroku.com/)
 	* CMS
-		* [Contentful](https://www.contentful.com/) 
-		* [Strapi](https://strapi.io/)
-	* Podstawy AWS
-	* Serverless
-		* [Webtask – Fajne narzędzie do potestowania (darmowe)](http://webtask.io)
+		* [DatoCMS](https://www.datocms.com/)
+	* Usługi w chmurze
+    * [Firebase – fajne dla początkujących](https://firebase.google.com/)
+    * [Amazon Web Services](https://aws.amazon.com/)
 * State Management
-	* [ Vuex](https://vuex.vuejs.org/)
+	* [Vuex](https://vuex.vuejs.org/)
 	* [Mobx](https://github.com/mobxjs/mobx)
 	* [Redux](https://redux.js.org/)
 * [GraphQL](https://graphql.org/learn/)
-* Server Side Language  
-	* [Mój faworyt – Node.js + Express](https://expressjs.com/) 
+* Server Side Language
+	* [Node.js](https://nodejs.org/)
+    * [Express.js](https://expressjs.com/)
+    * [Fastify](https://www.fastify.io/)
+    * [Nest.js](https://nestjs.com/)
 	* Oczywiście możliwości jest wiele więcej (Python, RoR etc.)
 
 ### Narzędzia projektowe
@@ -72,5 +76,4 @@
 ### Bonus:
 * Machine Learning
 	* [Polecam – Neural networks in JavaScript | Scrimba.com](https://scrimba.com/g/gneuralnetworks)
-* Blockchain
 * [WebAssembly](https://webassembly.org/)
