@@ -17,22 +17,22 @@
 	* [Adobe XD - darmowe](https://www.adobe.com/products/xd.html)
 
 ##  Front-end – ogólne
-* HTML Sematynczy
+* HTML Semantyczny
 	* [Tomasz Jakut – Semantyczny blog w HTML5](https://tutorials.comandeer.pl/html5-blog.html)
 * CSS
 	* [SCSS/Sass](https://sass-lang.com/)
 	* [styled-components](https://www.styled-components.com/)
 	* [Bulma](https://bulma.io/)
 * [Storybook](https://github.com/storybooks/storybook)
-* RWD 
+* RWD
 	* [CSS Grid](http://cssgridgarden.com/)
 	* [CSS Flexbox](https://flexboxfroggy.com/)
-	* *Postanowienie na nowy rok – przestańcie używać float! :D* 
 * [The math of CSS Locks](https://fvsch.com/css-locks/)
 * [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
+* [Mikrofrontendy](https://martinfowler.com/articles/micro-frontends.html)
 
 ## Front-end – część JavaScriptowa
-* ES6+ 
+* ES6+
 * TypeScript
 
 ### Frameworki
@@ -45,7 +45,13 @@
 		* [NGXS](https://ngxs.gitbook.io/ngxs/)
 		* [Akita](https://netbasal.gitbook.io/akita/)
 * [React](https://reactjs.org/)
+  * State Management (wybierz jeden)
+	* [Mobx](https://github.com/mobxjs/mobx)
+	* [Redux](https://redux.js.org/)
 * [Vue.js](https://vuejs.org/)
+  * State Management
+    * [Vuex](https://vuex.vuejs.org/)
+* [Angular](https://angular.io/)
 * SSR
 	* [Next.js](https://nextjs.org/)
 	* [Nuxt.js](https://nuxtjs.org/)
@@ -54,18 +60,18 @@
 	* [Netlify](https://www.netlify.com/)
 	* [Heroku](https://www.heroku.com/)
 	* CMS
-		* [Contentful](https://www.contentful.com/) 
-		* [Strapi](https://strapi.io/)
-	* Podstawy AWS
-	* Serverless
-		* [Webtask – Fajne narzędzie do potestowania (darmowe)](http://webtask.io)
-* State Management
-	* [Vuex](https://vuex.vuejs.org/)
-	* [Mobx](https://github.com/mobxjs/mobx)
-	* [Redux](https://redux.js.org/)
+		* [DatoCMS](https://www.datocms.com/)
+	* Usługi w chmurze
+    * [Firebase – fajne dla początkujących](https://firebase.google.com/)
+    * [Amazon Web Services](https://aws.amazon.com/)
+
+
 * [GraphQL](https://graphql.org/learn/)
-* Server Side Language  
-	* [Mój faworyt – Node.js + Express](https://expressjs.com/) 
+* Server Side Language
+	* [Node.js](https://nodejs.org/)
+    * [Express.js](https://expressjs.com/)
+    * [Fastify](https://www.fastify.io/)
+    * [Nest.js](https://nestjs.com/)
 	* Oczywiście możliwości jest wiele więcej (Python, RoR etc.)
 
 ### Narzędzia projektowe
@@ -81,5 +87,4 @@
 ### Bonus:
 * Machine Learning
 	* [Polecam – Neural networks in JavaScript | Scrimba.com](https://scrimba.com/g/gneuralnetworks)
-* Blockchain
 * [WebAssembly](https://webassembly.org/)
