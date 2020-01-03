@@ -1,4 +1,9 @@
 # Frontend 2020 — czego warto się nauczyć?
+
+## Linki do odcinków
+* [Co warto wiedzieć w 2019](https://youtu.be/fibhIsmsVdI)
+* [Co warto wiedzieć w 2020](https://youtu.be/XlpgE8B-ekc)
+
 ## Narzędzia ogólne
 * [Visual Studio Code - darmowe](https://code.visualstudio.com/)
 * [Sublime Text - darmowe](https://www.sublimetext.com/)
