@@ -1,4 +1,4 @@
-# Frontend 2019 — czego warto się nauczyć?
+# Frontend 2020 — czego warto się nauczyć?
 ## Narzędzia ogólne
 * [Visual Studio Code - darmowe](https://code.visualstudio.com/)
 * [Sublime Text - darmowe](https://www.sublimetext.com/)
@@ -11,7 +11,7 @@
 	* [GitHub - zalmoxisus/redux-devtools](https://github.com/zalmoxisus/redux-devtools-extension)
 * Projektowanie
 	* [Sketch - The digital design toolkit](https://www.sketchapp.com/)
-	* [Figma - darmowe](https://www.figma.com/) 
+	* [Figma - darmowe](https://www.figma.com/)
 	* [InVision Studio](https://www.invisionapp.com/studio)
 	* [Framer X](https://framer.com/)
 	* [Adobe XD - darmowe](https://www.adobe.com/products/xd.html)
