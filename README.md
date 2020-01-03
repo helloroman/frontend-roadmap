@@ -1,7 +1,7 @@
 # Frontend 2019 — czego warto się nauczyć?
 ## Narzędzia ogólne
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [Sublime Text](https://www.sublimetext.com/)
+* [Visual Studio Code - darmowe](https://code.visualstudio.com/)
+* [Sublime Text - darmowe](https://www.sublimetext.com/)
 * [Webstorm](https://www.jetbrains.com/webstorm/)
 * Przeglądarka – devtools
 	* [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
@@ -36,8 +36,21 @@
 * TypeScript
 
 ### Frameworki
+* Angular
+	* [Angular Framework](https://angular.io/)
+	* [Angular Material](https://material.angular.io/)
+	* [Angular CLI](https://cli.angular.io/)
+	* State Management (wybierz jeden)
+		* [NGRX](https://ngrx.io/)
+		* [NGXS](https://ngxs.gitbook.io/ngxs/)
+		* [Akita](https://netbasal.gitbook.io/akita/)
 * [React](https://reactjs.org/)
+  * State Management (wybierz jeden)
+	* [Mobx](https://github.com/mobxjs/mobx)
+	* [Redux](https://redux.js.org/)
 * [Vue.js](https://vuejs.org/)
+  * State Management
+    * [Vuex](https://vuex.vuejs.org/)
 * [Angular](https://angular.io/)
 * SSR
 	* [Next.js](https://nextjs.org/)
@@ -51,10 +64,8 @@
 	* Usługi w chmurze
     * [Firebase – fajne dla początkujących](https://firebase.google.com/)
     * [Amazon Web Services](https://aws.amazon.com/)
-* State Management
-	* [Vuex](https://vuex.vuejs.org/)
-	* [Mobx](https://github.com/mobxjs/mobx)
-	* [Redux](https://redux.js.org/)
+
+
 * [GraphQL](https://graphql.org/learn/)
 * Server Side Language
 	* [Node.js](https://nodejs.org/)
